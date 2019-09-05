@@ -1,0 +1,17 @@
+{
+  "name": "express_art_movie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jamesdanner/express_art_movie.git",
+  "author": "james <1071714548@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1"
+  }
+}
